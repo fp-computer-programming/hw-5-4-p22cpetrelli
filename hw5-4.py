@@ -12,11 +12,18 @@ print(len("excellent"))
 print("apple" in "Pineapple")
 
 #Question 5
-if "Peach" > "pear":
-    print("Peach does not come after")
+print("Peach" > "pear")
+    
 
 #Question 6
+print("x" * 100)
+
 #Question 7
+print(str(54321))
+
 #Question 8
+print("p" not in "Pineapple")
 #Question 9
+print('''"Livin' On a Prayer" is my freind's favorite song''')
 #Question 10
+print(len('''"Livin' On a Prayer" is my freind's favorite song'''))
